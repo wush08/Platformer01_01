@@ -3,10 +3,11 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "Paper2D",
-			"Enabled": true
+			"Name": "Platformer01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
